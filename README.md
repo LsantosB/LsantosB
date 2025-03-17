@@ -1,4 +1,5 @@
-## Hi there 👋
+Olá, me chamo Leonardo !
+Bem vindo ao meu perfil GitHub 👋
 
 ## Ferramentas e Tecnologias
 
