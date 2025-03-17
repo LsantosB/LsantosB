@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+## Ferramentas e Tecnologias
 
+<img <i class="devicon-latex-original"></i> " width="40" height="40"/>
 
 ## Estou aprendendo
 
