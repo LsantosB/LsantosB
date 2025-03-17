@@ -1,6 +1,6 @@
-#Olá, me chamo Leonardo !
+## Olá, me chamo Leonardo !
 
-#Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil GitHub 👋
 
 ## Ferramentas e Tecnologias
 
