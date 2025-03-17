@@ -2,7 +2,8 @@
 
 ## Ferramentas e Tecnologias
 
-<img <i class="devicon-latex-original"></i> " width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40"/>
+          
 
 ## Estou aprendendo
 
